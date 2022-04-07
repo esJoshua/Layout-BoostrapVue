@@ -1,9 +1,9 @@
 <template>
-  <h1>Vista Acerca de...</h1>
+  <h1>ERROR 404</h1>
 </template>
 
 <script>
 export default {
-  name: "AboutView",
+  name: "ErrorView",
 };
 </script>

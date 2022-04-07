@@ -1,9 +1,9 @@
 <template>
-  <h1>Vista Acerca de...</h1>
+  <h1>Vista buscar...</h1>
 </template>
 
 <script>
 export default {
-  name: "AboutView",
+  name: "BuscarView",
 };
 </script>
